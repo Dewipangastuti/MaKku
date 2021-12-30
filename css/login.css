@@ -1,0 +1,7 @@
+
+.login-background{
+	background: -webkit-linear-gradient(left, #a522fc, rgb(49, 0, 112), #a522fc, #fff);
+    background: linear-gradient(to right, #a522fc, rgb(49, 0, 112), rgb(49, 0, 112), #a522fc);
+    background-size: 600% 100%;
+}
+
